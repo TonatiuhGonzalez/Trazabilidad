@@ -1,0 +1,516 @@
+.navcolor{
+    background-color:#17a2b8;
+}
+:root{
+    --crianza-color: #3c7b7b;
+    --reproduccion-color:#679595;
+    --engorda-color: #4e6a81;
+    --tanques-color: #4f7b8d;
+    --usuarios-color: #748d89;
+    --socios-color: #4f5e63;
+    --almacen-color: #558684;
+    --establecimiento-color: #3f6963;
+}
+
+.h-1{
+   background-color: var(--reproduccion-color);
+}
+.h-1-1{
+    color: var(--reproduccion-color);
+}
+.h-2{
+    background-color:var(--reproduccion-color);
+}
+.h-2-1{
+    color: var(--reproduccion-color);
+}
+.h-3{
+    background-color:  var(--reproduccion-color);
+}
+.h-3-1{
+    color:  var(--reproduccion-color);
+}
+.Vaucl-1{
+    background-color: var(--reproduccion-color) ;
+}
+.Vafd-1{
+    background-color: var(--reproduccion-color);
+}
+.Vafd-2{
+    color: var(--reproduccion-color);
+}
+.Venvur-1{
+    background-color: var(--reproduccion-color);
+}
+.Vula-1{
+    background-color: var(--reproduccion-color);
+}
+.Vela-1{
+    background-color: var(--reproduccion-color);
+}
+.Vecl-1{
+    background-color: var(--reproduccion-color);
+}
+.Vularc-1{
+    background-color: var(--reproduccion-color);
+}
+.Vularc-2{
+    color: var(--reproduccion-color);
+}
+.Vularch-1{
+    background-color: var(--reproduccion-color);
+}
+.Vuard-1{
+    background-color: var(--reproduccion-color);
+}
+.Vuard-2{
+    color: var(--reproduccion-color);
+}
+.Vparc-1{
+    background-color: var(--reproduccion-color);
+}
+.Vparc-2{
+    color: var(--reproduccion-color);
+}
+.Vlimarc-1{
+    background-color: var(--reproduccion-color);
+}
+.Vlimarc-2{
+    color: var(--reproduccion-color);
+}
+.Vaarc-1{
+    background-color: var(--reproduccion-color);
+}
+.Vaarc-2{
+    color: var(--reproduccion-color);
+}
+.Venarc-1{
+    background-color: var(--reproduccion-color);
+}
+.Venarc-2{
+    color: var(--reproduccion-color);
+}
+.Vtratarc-1{
+    background-color: var(--reproduccion-color);
+}
+.Vtratarc-2{
+    color: var(--reproduccion-color);
+}
+/* Crianza -------------------------------------------------------------------------------------*/
+.Uccr-1{
+    background-color: var(--crianza-color);
+}
+.Uccr-2{
+    color:var(--crianza-color);
+}
+.Vaucom-1{
+    background-color: var(--crianza-color);
+}
+.Vafee-1{
+    background-color:var(--crianza-color);
+}
+.Vafee-2{
+    color: var(--crianza-color);
+}
+.Vauclc-1{
+    background-color: var(--crianza-color) ;
+}
+.Vgurc-1{
+    background-color: var(--crianza-color);
+}
+.Vgurc-2{
+    color: var(--crianza-color);
+}
+.Vaurc-1{
+    background-color: var(--crianza-color);
+}
+.Vvurc-1{
+    background-color: var(--crianza-color);
+}
+.Veurc-1{
+    background-color: var(--crianza-color);
+}
+.Vgurcd-1{
+    background-color: var(--crianza-color);
+}
+.Vgurcd-2{
+    color: var(--crianza-color);
+}
+.Vueac-1{
+    background-color: var(--crianza-color);
+}
+.Vueac-2{
+    color: var(--crianza-color);
+}
+.Vaul-1{
+    background-color: var(--crianza-color);
+}
+.Vvula-1{
+    background-color: var(--crianza-color);
+}
+.Veula-1{
+    background-color: var(--crianza-color);
+}
+.Veulauc-1{
+    background-color: var(--crianza-color);
+}
+.Vulacr-1{
+    background-color: var(--crianza-color);
+}
+.Vulacr-2{
+    color: var(--crianza-color);
+}
+.Vvueacr-1{
+    background-color: var(--crianza-color);
+}
+.Vuarc-1{
+    background-color: var(--crianza-color);
+}
+.Vuarc-2{
+    color: var(--crianza-color);
+}
+.Vpac-1{
+    background-color: var(--crianza-color);
+}
+.Vpac-2{
+    color: var(--crianza-color);
+}
+.Vlimpc-1{
+    background-color: var(--crianza-color);
+}
+.Vlimpc-2{
+    color: var(--crianza-color);
+}
+.Vac-1{
+    background-color: var(--crianza-color);
+}
+.Vac-2{
+    color: var(--crianza-color);
+}
+.Venc-1{
+    background-color: var(--crianza-color);
+}
+.Venc-2{
+   color: var(--crianza-color);
+}
+.Vtrenc-1{
+    background-color: var(--crianza-color);
+}
+.Vtrenc-2{
+    color: var(--crianza-color);
+}
+/* Engorda---------------------------------------------------------- ------------------------ */
+.Uen-1{
+    background-color: var(--engorda-color);
+}
+.Uen-2{
+    color: var(--engorda-color);
+}
+.Vauce-1{
+    background-color: var(--engorda-color);
+}
+.Vure-1{
+    background-color: var(--engorda-color);
+}
+.Vure-2{
+    color: var(--engorda-color);
+}
+.Vaure-1{
+    background-color: var(--engorda-color);
+}
+.Vvure-1{
+    background-color: var(--engorda-color);
+}
+.Veure-1{
+    background-color: var(--engorda-color);
+}
+.Vurae-1{
+    background-color: var(--engorda-color);
+}
+.Vurae-2{
+    color: var(--engorda-color);
+}
+.Vvurearc-1{
+    background-color: var(--engorda-color);
+}
+.Vunle-1{
+    background-color: var(--engorda-color);
+}
+.Vunle-2{
+    color: var(--engorda-color);
+}
+.Vvunle-1{
+    background-color: var(--engorda-color);
+}
+.Veunle-1{
+    background-color: var(--engorda-color);
+}
+.Veucle-1{
+    background-color: var(--engorda-color);
+}
+.Vaunle-1{
+    background-color: var(--engorda-color);
+}
+.Vulearc-1{
+    background-color: var(--engorda-color);
+}
+.Vulearc-2{
+    color: var(--engorda-color);
+}
+.Vvulearc-1{
+    background-color: var(--engorda-color);
+}
+.Vucearc-1{
+    background-color: var(--engorda-color);
+}
+.Vucearc-2{
+    color: var(--engorda-color);
+}
+.Vpucear-1{
+    background-color: var(--engorda-color);
+}
+.Vpucear-2{
+    color: var(--engorda-color);
+}
+.Vlucear-1{
+    background-color: var(--engorda-color);
+}
+.Vlucear-2{
+    color: var(--engorda-color);
+}
+.Vaucear-1{
+    background-color: var(--engorda-color);
+}
+.Vaucear-2{
+    color: var(--engorda-color);
+}
+.Venfucear-1{
+    background-color: var(--engorda-color);
+}
+.Venfucear-2{
+   color: var(--engorda-color);
+}
+.Vtratucear-1{
+    background-color: var(--engorda-color);
+}
+.Vtratucear-2{
+   color: var(--engorda-color);
+}
+
+/* tanques ---------------------------------------------------------- */
+.Ta-1{
+    background-color: var(--tanques-color);
+}
+.Veta-1{
+    background-color: var(--tanques-color);
+}
+.Vtd-1{
+    background-color: var(--tanques-color);
+}
+.At-1{
+    background-color: var(--tanques-color);
+}
+/* acciones tanque------------------------------------------------------------------- */
+
+.Taalm-1{
+    background-color: var(--tanques-color);
+}
+.Taalm-2{
+    color: var(--tanques-color);
+}
+.Vaenf-1{
+    background-color: var(--tanques-color);
+}
+.Tl-1{
+    background-color: var(--tanques-color);
+}
+.Vafte-1{
+    background-color: var(--tanques-color);
+}
+.Vafte-2{
+   color: var(--tanques-color);
+}
+.Vatr-1{
+    background-color: var(--tanques-color);
+}
+.Veenf-1{
+    background-color: var(--tanques-color);
+}
+.Venf-1{
+    background-color: var(--tanques-color);
+}
+.Venf-2{
+    color: var(--tanques-color);
+}
+.Tlg-1{
+    background-color: var(--tanques-color);
+}
+.Tlg-2{
+    color: var(--tanques-color);
+}
+.Tpfq-1{
+    background-color: var(--tanques-color);
+}
+.Tpfq-2{
+    color: var(--tanques-color);
+}
+.Tpfqm-1{
+    background-color: var(--tanques-color);
+}
+.Tpfqm-2{
+    color: var(--tanques-color);
+}
+.Tpfqg-1{
+    background-color: var(--tanques-color);
+}
+.Tpfqg-2{
+    color: var(--tanques-color);
+}
+.Vgtr-1{
+    background-color: var(--tanques-color);
+}
+.Vgtr-2{
+    color: var(--tanques-color);
+}
+.Vvenf-1{
+    background-color: var(--tanques-color);
+}
+.Vvenf-2{
+    color: var(--tanques-color);
+}
+/* usuarios---------------------------------------------------------------------------------------------- */
+.Av-1{
+    background-color: var(--usuarios-color);
+}
+.Veu-1{
+    background-color: var(--usuarios-color);
+}
+.Hu-1{
+    background-color: var(--usuarios-color);
+}
+.Vrea-1{
+    background-color: var(--usuarios-color);
+}
+.Ru-1{
+    background-color: var(--usuarios-color);
+}
+.Viu-1{
+    background-color: var(--usuarios-color);
+}
+/* Socios --------------------------------------------------------------------------------------------------------- */
+.Sr-1{
+    background-color: var(--socios-color);
+}
+.Vas-1{
+    background-color: var(--socios-color);
+}
+.Hs-1{
+    background-color: var(--socios-color);
+}
+.Vvs-1{
+    background-color: var(--socios-color);
+}
+/* almacen------------------------------------------------------------------------------------------------------------ */
+
+.Vaarch-1{
+    background-color: var(--almacen-color);
+}
+.Vaarch-2{
+    color: var(--almacen-color);
+}
+.Aal-1{
+    background-color: var(--almacen-color);
+}
+.Alam-1{
+    background-color: var(--almacen-color);
+}
+.Al-1{
+    background-color: var(--almacen-color);
+}
+.Al-2{
+    color: var(--almacen-color);
+}
+.Emed-1{
+    background-color: var(--almacen-color);
+}
+.Alme-1{
+    background-color: var(--almacen-color);
+}
+.Alme-2{
+    color: var(--almacen-color);
+}
+.Vmed-1{
+    background-color: var(--almacen-color);
+}
+
+/* establecimiento-------------------------------------------------------------------------------------------- */
+
+.Vpe-1{
+    background-color: var(--establecimiento-color);
+}
+.Vees-1{
+    background-color: var(--establecimiento-color);
+}
+
+/*------------------------------------------------ efecto botones --------------------------------- */
+
+/* .menu {
+    display: flex;
+    justify-content: center;
+  } */
+/* .menu a span:first-child {
+    display: inline-block;
+    padding: 10px;
+  } */
+
+
+/*
+.menu  span:last-child {
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+transform: translateY(-100%);
+}
+
+.menu a span {
+    transition: transform 0.2s ease-out;
+}
+
+.menu a:hover span:first-child {
+    transform: translateY(200%);
+}
+
+.menu a:hover span:last-child {
+    transform: none;
+} */
+/* .de{
+    display: none;
+} */
+/* a.ex1:hover {
+    /* display: block; */
+    /* background-color: rgb(240, 240, 21)
+} */ 
+/* .menu{
+    position: absolute;
+} */
+
+/* .tooltip{
+    text-decoration: none;
+    position: relative;
+}
+.tooltip span{
+    display: none;
+}
+.tooltip span img{
+    float: left;
+}
+.tooltip:hover span{
+    display: block;
+    position: absolute;
+    overflow: hidden;
+} */

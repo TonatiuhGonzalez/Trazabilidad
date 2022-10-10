@@ -124,7 +124,7 @@ class Almacen extends CI_Controller
 			$this->load->view('admin/template/barra-nav');
 			$this->load->view('admin/template/columna');
 			$this->load->view('admin/almacen/vista-ver-alimento', $data);
-			$this->load->view('admin/template/footer');0
+			$this->load->view('admin/template/footer');
 		} else {
 			redirect(base_url());
 		}
